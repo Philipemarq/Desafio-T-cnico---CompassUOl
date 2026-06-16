@@ -5,7 +5,7 @@ cobrindo os endpoints de **Usuários**, **Login**, **Produtos** e **Carrinho**.
 
 ---
 
-## Melhorias aplicadas em relação à Versão 1 (Parte 1 → Parte 2)
+## Melhorias aplicadas em relação à Versão 1 [Parte 1 (https://github.com/Philipemarq/Mini-desafio-de-Python-e-testes-automatizados-de-APIs) → Parte 2]
 
 | # | Melhoria | Detalhe |
 |---|----------|---------|
